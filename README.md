@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I’m Emmakade 👋
 
-<!--
-**Emmakade/Emmakade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Flutter-first developer focused on building mobile-first systems and full-stack applications using Laravel REST APIs.
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack
+- Flutter (Provider, UI Architecture)
+- Laravel (REST APIs, Auth, Payments)
+- MySQL
+- Google Maps & Location Services
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Projects
+- **Carpo** – Full-stack ride-sharing platform (Flutter + Laravel)
+- **Calkuta** – Offline-first finance & expense tracker
+- **Taskgenius** – Productivity app with clean state management
+
+📫 Reach me via GitHub or email: dmasterkay@gmail.com
