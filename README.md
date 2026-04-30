@@ -6,6 +6,7 @@ I’m a Flutter-first developer focused on building mobile-first systems and ful
 - Flutter (Provider, UI Architecture)
 - Laravel (REST APIs, Auth, Payments)
 - MySQL
+- Vue.Js (UI/UX, vite, pinia)
 - Google Maps & Location Services
 
 ### 🚀 Featured Projects
